@@ -1,7 +1,7 @@
 # Data-Scraping
 
 
-A beginner-friendly introduction to web scraping with Python — covering how HTML works, downloading web pages with `requests`, and parsing/extracting data with `BeautifulSoup`.
+covering how HTML works, downloading web pages with `requests`, and parsing/extracting data with `BeautifulSoup`.
 
 ## Requirements
 
